@@ -1,0 +1,8 @@
+interface:
+  display_name: "CLI for Agents"
+  short_description: "Design reliable automation-friendly CLIs"
+  default_prompt: "Use $cli-for-agents to design this CLI for reliable non-interactive use."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

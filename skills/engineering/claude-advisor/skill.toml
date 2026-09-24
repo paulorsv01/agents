@@ -1,0 +1,7 @@
+version = 1
+name = "claude-advisor"
+remote = false
+dirty = false
+license = "MIT"
+status = "local"
+notes = "Locally adapted for precise activation, task-scoped guidance, progressive references, and explicit completion boundaries."

@@ -1,0 +1,222 @@
+{
+  "id": "1:186",
+  "parent": "1:181",
+  "nodeChanges": [
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 181
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 1,
+          "localID": 180
+        },
+        "position": "!"
+      },
+      "name": "Fill=No",
+      "type": "SYMBOL",
+      "visible": true,
+      "opacity": 1,
+      "size": {
+        "x": 24,
+        "y": 24
+      },
+      "transform": {
+        "m00": 1,
+        "m01": 1.6081230200044232e-16,
+        "m02": 12,
+        "m10": -1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 12
+      },
+      "fillPaints": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          },
+          "opacity": 0.00009999999747378752,
+          "visible": true,
+          "blendMode": "NORMAL",
+          "colorVar": {
+            "value": {
+              "alias": {
+                "assetRef": {
+                  "key": "84da5ba701dd5a4c1b5538b04e756af61b8a6f1f",
+                  "version": "3018:20"
+                }
+              }
+            },
+            "dataType": "ALIAS",
+            "resolvedDataType": "COLOR"
+          },
+          "authoredColor": {
+            "space": "DEFAULT",
+            "c0": 1,
+            "c1": 0,
+            "c2": 0,
+            "c3": 0.00009999999747378752
+          }
+        }
+      ]
+    },
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 186
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 1,
+          "localID": 181
+        },
+        "position": "#"
+      },
+      "name": "icon",
+      "type": "VECTOR",
+      "visible": true,
+      "opacity": 1,
+      "size": {
+        "x": 20,
+        "y": 20
+      },
+      "transform": {
+        "m00": 1,
+        "m01": -1.6081230200044232e-16,
+        "m02": 2,
+        "m10": 1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 2
+      },
+      "vectorData": {
+        "vectorNetworkBlob": 0,
+        "normalizedSize": {
+          "x": 19.899999618530273,
+          "y": 19.899999618530273
+        },
+        "styleOverrideTable": [
+          {
+            "styleID": 1,
+            "cornerRadius": 0,
+            "strokeCap": "NONE",
+            "strokeJoin": "MITER",
+            "handleMirroring": "NONE",
+            "cornerSmoothing": 0
+          },
+          {
+            "styleID": 2,
+            "cornerRadius": 0,
+            "strokeCap": "ROUND",
+            "strokeJoin": "MITER",
+            "handleMirroring": "NONE",
+            "cornerSmoothing": 0
+          }
+        ]
+      },
+      "fillPaints": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.10588235408067703,
+            "g": 0.10588235408067703,
+            "b": 0.10588235408067703,
+            "a": 1
+          },
+          "opacity": 1,
+          "visible": true,
+          "blendMode": "NORMAL",
+          "colorVar": {
+            "value": {
+              "alias": {
+                "assetRef": {
+                  "key": "5d29a2c3c02b1d4ebf223e5b2e984d2878940bac",
+                  "version": "5683:9"
+                }
+              }
+            },
+            "dataType": "ALIAS",
+            "resolvedDataType": "COLOR"
+          },
+          "authoredColor": {
+            "space": "DEFAULT",
+            "c0": 0.10588235408067703,
+            "c1": 0.10588235408067703,
+            "c2": 0.10588235408067703,
+            "c3": 1
+          }
+        }
+      ]
+    },
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 182
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 1,
+          "localID": 181
+        },
+        "position": "!"
+      },
+      "name": "icon-grid",
+      "type": "INSTANCE",
+      "visible": false,
+      "opacity": 1,
+      "size": {
+        "x": 24,
+        "y": 24
+      },
+      "transform": {
+        "m00": 1,
+        "m01": 1.6081230200044232e-16,
+        "m02": 0,
+        "m10": -1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 0
+      }
+    },
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 183
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 1,
+          "localID": 181
+        },
+        "position": "\""
+      },
+      "name": "editável",
+      "type": "FRAME",
+      "visible": false,
+      "opacity": 1,
+      "size": {
+        "x": 19,
+        "y": 19
+      },
+      "transform": {
+        "m00": 1,
+        "m01": 0,
+        "m02": 2,
+        "m10": 0,
+        "m11": 1,
+        "m12": 2
+      }
+    },
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 925
+      },
+      "type": "VARIABLE",
+      "key": "5d29a2c3c02b1d4ebf223e5b2e984d2878940bac",
+      "name": "base/neutral/foreground/dynamic/10"
+    }
+  ]
+}

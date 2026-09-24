@@ -1,0 +1,8 @@
+interface:
+  display_name: "Deep Review"
+  short_description: "Run parallel deep branch-review lanes"
+  default_prompt: "Use $deep-review to run combined correctness, security, and code-quality audits on the current branch."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

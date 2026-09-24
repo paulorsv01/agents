@@ -1,0 +1,8 @@
+interface:
+  display_name: "Verify This"
+  short_description: "Prove claims with before-and-after evidence"
+  default_prompt: "Use $verify-this to prove this change works with fresh baseline and treatment evidence."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

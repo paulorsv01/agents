@@ -1,0 +1,12 @@
+version = 1
+name = "figma-read"
+remote = true
+dirty = false
+license = "Not declared in upstream repository."
+status = "clean"
+notes = "Imported unchanged from StudioSol/AgentSkillsMobile PR #19 at commit 5d7515f."
+
+[[sources]]
+url = "https://github.com/StudioSol/AgentSkillsMobile/tree/5d7515fb492215f4d00960f68f80ec42965a7cd1/skills/figma-read"
+ref = "5d7515fb492215f4d00960f68f80ec42965a7cd1"
+path = "skills/figma-read"

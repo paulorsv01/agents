@@ -1,0 +1,8 @@
+interface:
+  display_name: "Maintainability Review"
+  short_description: "Run a harsh structural quality audit"
+  default_prompt: "Use $maintainability-review to audit the current diff for structural and maintainability problems."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

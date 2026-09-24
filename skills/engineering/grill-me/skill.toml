@@ -1,0 +1,12 @@
+version = 1
+name = 'grill-me'
+remote = true
+dirty = true
+license = 'See upstream repository.'
+status = 'adapted'
+notes = "Locally adapted for precise activation, task-scoped guidance, progressive references, and explicit completion boundaries."
+
+[[sources]]
+url = 'https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me'
+ref = 'main'
+path = 'skills/productivity/grill-me'

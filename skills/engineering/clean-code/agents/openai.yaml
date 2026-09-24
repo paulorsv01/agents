@@ -1,0 +1,8 @@
+interface:
+  display_name: "Clean Code"
+  short_description: "Remove code slop without behavior drift"
+  default_prompt: "Use $clean-code to clean the current diff while preserving behavior."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Writing for Agents"
+  short_description: "Write predictable agent-facing documents"
+  default_prompt: "Use $writing-for-agents to improve this agent-facing document."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true

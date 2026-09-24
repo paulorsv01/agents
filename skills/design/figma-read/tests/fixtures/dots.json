@@ -1,0 +1,175 @@
+{
+  "id": "226:14879",
+  "parent": "226:14877",
+  "nodeChanges": [
+    {
+      "guid": {
+        "sessionID": 226,
+        "localID": 14877
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 226,
+          "localID": 14876
+        },
+        "position": "!"
+      },
+      "name": "direction=horizontal",
+      "type": "SYMBOL",
+      "visible": true,
+      "opacity": 1,
+      "size": {
+        "x": 24,
+        "y": 24
+      },
+      "transform": {
+        "m00": 1,
+        "m01": 1.6081230200044232e-16,
+        "m02": 12,
+        "m10": -1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 12
+      },
+      "fillPaints": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          },
+          "opacity": 0.00009999999747378752,
+          "visible": true,
+          "blendMode": "NORMAL",
+          "colorVar": {
+            "value": {
+              "alias": {
+                "assetRef": {
+                  "key": "84da5ba701dd5a4c1b5538b04e756af61b8a6f1f",
+                  "version": "3018:20"
+                }
+              }
+            },
+            "dataType": "ALIAS",
+            "resolvedDataType": "COLOR"
+          },
+          "authoredColor": {
+            "space": "DEFAULT",
+            "c0": 1,
+            "c1": 0,
+            "c2": 0,
+            "c3": 0.00009999999747378752
+          }
+        }
+      ]
+    },
+    {
+      "guid": {
+        "sessionID": 226,
+        "localID": 14879
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 226,
+          "localID": 14877
+        },
+        "position": "\""
+      },
+      "name": "icon",
+      "type": "VECTOR",
+      "visible": true,
+      "opacity": 1,
+      "size": {
+        "x": 3,
+        "y": 13.5
+      },
+      "transform": {
+        "m00": 1,
+        "m01": -1.6081230200044232e-16,
+        "m02": 10.5,
+        "m10": 1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 5.25
+      },
+      "vectorData": {
+        "vectorNetworkBlob": 0,
+        "normalizedSize": {
+          "x": 4,
+          "y": 18
+        }
+      },
+      "fillPaints": [
+        {
+          "type": "SOLID",
+          "color": {
+            "r": 0.10588235408067703,
+            "g": 0.10588235408067703,
+            "b": 0.10588235408067703,
+            "a": 1
+          },
+          "opacity": 1,
+          "visible": true,
+          "blendMode": "NORMAL",
+          "colorVar": {
+            "value": {
+              "alias": {
+                "assetRef": {
+                  "key": "5d29a2c3c02b1d4ebf223e5b2e984d2878940bac",
+                  "version": "5683:9"
+                }
+              }
+            },
+            "dataType": "ALIAS",
+            "resolvedDataType": "COLOR"
+          },
+          "authoredColor": {
+            "space": "DEFAULT",
+            "c0": 0.10588235408067703,
+            "c1": 0.10588235408067703,
+            "c2": 0.10588235408067703,
+            "c3": 1
+          }
+        }
+      ]
+    },
+    {
+      "guid": {
+        "sessionID": 226,
+        "localID": 14878
+      },
+      "parentIndex": {
+        "guid": {
+          "sessionID": 226,
+          "localID": 14877
+        },
+        "position": "!"
+      },
+      "name": "icon-grid",
+      "type": "INSTANCE",
+      "visible": false,
+      "opacity": 1,
+      "size": {
+        "x": 24,
+        "y": 24
+      },
+      "transform": {
+        "m00": 1,
+        "m01": 1.6081230200044232e-16,
+        "m02": 0,
+        "m10": -1.6081230200044232e-16,
+        "m11": 1,
+        "m12": 0
+      }
+    },
+    {
+      "guid": {
+        "sessionID": 1,
+        "localID": 925
+      },
+      "type": "VARIABLE",
+      "key": "5d29a2c3c02b1d4ebf223e5b2e984d2878940bac",
+      "name": "base/neutral/foreground/dynamic/10"
+    }
+  ]
+}

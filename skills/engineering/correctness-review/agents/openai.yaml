@@ -1,0 +1,8 @@
+interface:
+  display_name: "Correctness Review"
+  short_description: "Audit correctness, security, and breakage"
+  default_prompt: "Use $correctness-review to audit the current branch for proven correctness and security problems."
+policy:
+  products:
+    - CODEX
+  allow_implicit_invocation: true
