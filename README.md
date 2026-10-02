@@ -62,3 +62,7 @@ O agente usa as automáticas quando o pedido combina com a descrição. As manua
 | `plain-language` | Reexplica a última resposta sem jargão |
 | `show-me` | Explica o assunto com diagramas e esboços visuais |
 | `claude-advisor` | Segunda opinião do Claude Code a partir do Codex |
+
+
+
+TESTE
